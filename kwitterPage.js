@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAttZQEQIxBtNblvseBjIMDpakXxl4WUtU",
-    authDomain: "vamosconversar-8c7fe.firebaseapp.com",
-    databaseURL: "https://vamosconversar-8c7fe-default-rtdb.firebaseio.com",
-    projectId: "vamosconversar-8c7fe",
-    storageBucket: "vamosconversar-8c7fe.appspot.com",
-    messagingSenderId: "415358156359",
-    appId: "1:415358156359:web:06f5f06a58b781eef6fb62"
+    apiKey: "AIzaSyALd2gsdbgezynEGbQKe9LrO3fkod2Qi8M",
+  authDomain: "vcandre-e5890.firebaseapp.com",
+  databaseURL: "https://vcandre-e5890-default-rtdb.firebaseio.com",
+  projectId: "vcandre-e5890",
+  storageBucket: "vcandre-e5890.appspot.com",
+  messagingSenderId: "775913241905",
+  appId: "1:775913241905:web:acb9820fc9112f4acf8410"
   };
     
   firebase.initializeApp(firebaseConfig);
